@@ -420,6 +420,7 @@ footer {
 .footer__logo--image {
   width: 70px;
   height: 70px;
+  filter: invert(.9);
 }
 
 .footer__social--link,
